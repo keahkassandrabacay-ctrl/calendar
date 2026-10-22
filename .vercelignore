@@ -1,0 +1,8 @@
+node_modules
+.next
+.env*
+*.log
+*.zip
+.DS_Store
+tsconfig.tsbuildinfo
+public/sw.js
