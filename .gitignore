@@ -42,7 +42,3 @@ public/sw.js
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-# capstone documents
-*.docx
-*.odt
